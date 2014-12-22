@@ -1,0 +1,1 @@
+javac -verbose -cp . -sourcepath src -d bin src/net/filecounter/FileCounterRunner.java
